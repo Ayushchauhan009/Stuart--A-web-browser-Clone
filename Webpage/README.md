@@ -1,2 +1,2 @@
 Webpage to download the .exe file of the web browser application prototype.
-![alt text](https://ibb.co/sHK89xz)
+![alt text](https://i.ibb.co/L5xVdjH/Screenshot-109.png)
